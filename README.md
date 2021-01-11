@@ -1,8 +1,8 @@
-**MP3 / CPEN 221 / Fall 2019**
+**Project for CPEN 221 Fall 2019**
 
 # Wikipedia and Graph Databases
 
-This mini-project involves interacting with Wikipedia and performing many operations.
+This project involves interacting with Wikipedia and performing many operations.
 
 Some of the learning goals for this mini-project are:
 
